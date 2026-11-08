@@ -45,4 +45,4 @@ Mengkai Dai, Cheng Peng, Rui Li, and **Ruimeng Zhou**. “Online Electrochemical
 
 I am interested in research opportunities in biomedical AI, mathematical modeling, and data science, particularly work that combines methodological depth with reliable software and clear scientific communication.
 
-[LinkedIn](https://www.linkedin.com/in/ttraymondzhou/) · [Full research, experience, and project portfolio](PORTFOLIO.md) · [Download academic portfolio (PDF)](Raymond_Zhou_Academic_Portfolio.pdf)
+[Academic website](https://raymond-zhou-2005.github.io/Raymond-Zhou-2005/) · [LinkedIn](https://www.linkedin.com/in/ttraymondzhou/) · [Full portfolio](PORTFOLIO.md) · [Portfolio PDF](Raymond_Zhou_Academic_Portfolio.pdf) · [LinkedIn portfolio article](https://www.linkedin.com/pulse/research-portfolio-biomedical-ai-mathematical-health-raymond-jrd4c/)
