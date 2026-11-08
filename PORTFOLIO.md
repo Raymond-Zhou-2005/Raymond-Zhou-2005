@@ -200,6 +200,20 @@ Developed presentation, script, and concept materials for AI-generated-content a
 
 My broader academic preparation includes calculus and linear algebra; probability and statistics; differential equations and dynamical systems; real and complex analysis; topology; computer science and data structures; physics and chemistry; economics and global health; ethics; cultural analysis; and academic communication. Course materials and reference collections are kept distinct from completed original projects.
 
+## Academic recognition and training
+
+- **Undergraduate Entrance Scholarship**, Duke Kunshan University.
+- **Summer Research Scholar selection**, 2025, with a further summer-research appointment in 2026.
+- **Dean's List with Distinction**, Spring 2024 and Fall 2025; **Dean's List**, Spring 2026.
+- **Outstanding Peer Tutor nomination** and **Outstanding Peer Mentor nomination**, academic year 2024-25.
+- **Tutor Essentials**, certificate of completion, August 2025.
+
+Nominations are identified separately from awards. Research participation and appointment are distinct from publication.
+
+## Extended technical toolkit
+
+Python; R; scientific computing; mathematical modeling; numerical analysis; statistical modeling; data analysis; medical image processing; reproducible research; machine learning; health economics; ordinary and partial differential equations; Monte Carlo simulation; signal processing; Git; NumPy; pandas; SciPy; scikit-learn; PyTorch; Quarto; LaTeX; DICOM; NIfTI; retrieval-augmented generation.
+
 ## Research practice
 
 I aim to make research reusable through clear problem definitions, source and parameter provenance, versioned code, retained failures, documented computational checks, and readable technical communication. I distinguish a working implementation from a validated scientific claim, and a research manuscript from a peer-reviewed publication.
